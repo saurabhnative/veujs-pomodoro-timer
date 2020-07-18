@@ -1,5 +1,5 @@
 # vuejs-pomodoro-app
-
+Sample timer app made while following vue.js tutorial from Freecodecamp
 ## Project setup
 ```
 yarn install
