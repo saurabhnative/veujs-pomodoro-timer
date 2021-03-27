@@ -4,6 +4,9 @@ Sample timer app made while following vue.js tutorial from Freecodecamp
 ## Online Demo:-
 https://vuejs-pomodoro-timer.netlify.app
 
+## Source tutorial:-
+https://www.youtube.com/watch?v=Fvw8YBtdzqA
+
 ## Project setup
 ```
 yarn install
